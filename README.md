@@ -1,4 +1,4 @@
-# Vue3, Storybook, TailwindCSS, Router, Vite, TypeScript
+# Vue3, Storybook, TailwindCSS, Vite, TypeScript
 
 ## Vue3 Storybook starter
 
@@ -7,6 +7,9 @@
 ```bash
 yarn
 yarn storybook
+
+# upgrade storybook to latest version
+npx storybook@latest upgrade
 
 ```
 
